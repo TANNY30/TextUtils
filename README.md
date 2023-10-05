@@ -1,3 +1,13 @@
+
+![snapshot](https://github.com/TANNY30/textutils/assets/129363580/4438f75c-7527-47f9-bf11-ef215b829668)
+
+
+
+
+![mobile about page](https://github.com/TANNY30/textutils/assets/129363580/a412f861-0797-4dce-97b6-d296fd75b800)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
